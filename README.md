@@ -74,8 +74,8 @@ REACT_APP_GEMINI_API_KEY=your_gemini_api_key
 
 ```bash
 # Clone the repo
-git clone https://github.com/your-username/gemini-clone.git
-cd gemini-clone
+git clone https://github.com/Aman73800/GEMINI-AI.git
+cd GEMINI-AI
 
 # Install dependencies
 npm install
@@ -117,4 +117,4 @@ MIT License
 ## 🤛‍♂️ Author
 
 **Aman Yadav**
-🔗 [Portfolio Website](#) | 👥 [GitHub](https://github.com/your-username) | 📧 [amanyadav73800@email.com](mailto:amanyadav73800@email.com)
+🔗 [Portfolio Website](#) | 👥 [GitHub](https://github.com/Aman73800/GEMINI-AI) | 📧 [amanyadav73800@email.com](mailto:amanyadav73800@email.com)
