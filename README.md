@@ -1,6 +1,8 @@
 # 🔮 Gemini AI Clone
 
-A **Gemini AI Clone** – a conversational chatbot built using modern web technologies and Gemini API integration. This project features a web-based interface and a Chrome extension, enabling users to interact with an AI assistant in real-time for various tasks like answering questions, generating responses, and assisting with productivity.
+A **Gemini AI Clone** – a conversational chatbot built using modern web technologies and Gemini API integration. This project features a **web-based interface** and a **Chrome extension**, enabling users to interact with an AI assistant in real-time for various tasks like answering questions, generating responses, and assisting with productivity.
+
+🔗 **Live Demo:** [Gemini Clone](https://geminiclone-1.netlify.app/)
 
 ---
 
@@ -15,12 +17,12 @@ A **Gemini AI Clone** – a conversational chatbot built using modern web techno
 
 ---
 
-## 🖠️ Tech Stack
+## 🖥️ Tech Stack
 
 | Frontend           | Backend / API          | Extension       |
 | ------------------ | ---------------------- | --------------- |
 | HTML, CSS, JS      | Gemini API (Google AI) | Manifest V3, JS |
-| ReactJS (optional) | Axios/Fetch API calls  | Chrome APIs     |
+| React.js           | Axios / Fetch API calls| Chrome APIs     |
 
 ---
 
@@ -84,37 +86,24 @@ npm install
 npm start
 ```
 
-For Chrome Extension:
-
-1. Go to `chrome://extensions/`
-2. Enable "Developer Mode"
-3. Click "Load unpacked"
-4. Select the `chrome-extension/` folder
-
----
-
-## 📸 Screenshots
-
-*Add screenshots here showing the chatbot UI, API response, and Chrome extension.*
-
 ---
 
 ## 💡 Future Improvements
 
-* Support for voice commands
-* Conversation history saving
-* Chat styling enhancements
-* Dark mode toggle
+* 🎙️ Support for voice commands
+* 💾 Conversation history saving
+* 🎨 Enhanced chat styling
+* 🌙 Dark mode toggle
 
 ---
 
 ## 📄 License
 
-MIT License
+This project is licensed under the **MIT License**.
 
 ---
 
-## 🤛‍♂️ Author
+## 👨‍💻 Author
 
-**Aman Yadav**
-🔗 [Portfolio Website](#) | 👥 [GitHub](https://github.com/Aman73800/GEMINI-AI) | 📧 [amanyadav73800@email.com](mailto:amanyadav73800@email.com)
+**Aman Yadav**  
+🔗 [LinkedIn](https://linkedin.com/in/aman-yadav-583076239) | 👥 [GitHub](https://github.com/Aman73800) | 🌐 [Live Project](https://geminiclone-1.netlify.app/)
